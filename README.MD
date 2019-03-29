@@ -21,7 +21,7 @@ Awesome List
 
 Naughty List
 
-× Use the Dinero or Dinero Coin logo for your application’s icon
+× Use the Dinero or Dinero Coin logo for your website and/or application icon
 
 × Create a modified version of the Dinero or Dinero Coin logo
 
