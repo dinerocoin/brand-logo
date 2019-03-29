@@ -5,7 +5,7 @@ This is the logo to be used for both Dinero Coin(the product) and Dinero Coin Pr
 
 Trademark
 
-The Dinero Coin Project has the right of trademark on its own logo. Anyone can use the Pact and Pact Foundation logos as long as its use is withing the following guidelines:
+The Dinero Coin Project has the right of trademark on its own logo. Anyone can use the Dinero or Dinero Coin logos as long as its use is within the following guidelines:
 
 
 Awesome List
@@ -14,7 +14,7 @@ Awesome List
 
 ✓ Use the Dinero or Dinero Coin logo to advertise that your product was built with Dinero Coin
 
-✓ User the Dinero or Dinero Coin logo to advertise that you contributed to our project
+✓ Use the Dinero or Dinero Coin logo to advertise that you contributed to our project
 
 ✓ Use the Dinero or Dinero Coin logo in a blog post or news article about Dinero Coin
 
@@ -38,4 +38,4 @@ Please avoid naming your projects anything that implies Dinero or Dinero Coin’
 
 
 Please contact us: dev@dinerocoin.org
-If there's any question or you're not sure about something, don't hesitate to throw us a line.
+If there's any question or you're not sure about something, don't hesitate to send us a message.
